@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![dis](https://discord.c99.nl/widget/theme-1/858251304560623626.png)](https://discord.com/users/858251304560623626/)
+[![dis](https://discord.c99.nl/widget/theme-1/977952578123993148.png)](https://discord.com/users/858251304560623626/)
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,discord)]([https://artembay.tk](https://discord.com/users/858251304560623626/))
 
